@@ -6,5 +6,5 @@ Version two of cairo news app.
 
 Dark Mode.
 Search for news.
-use Bloc as stat emanagement.
+use Bloc as state management.
 
